@@ -1,0 +1,48 @@
+/*
+Name: ZCOOL Cang Er Yu Yang (站酷仓耳渔阳体)
+Format: TTF
+Display: block
+for:
+使用范围：免费授权全社会使用（包括商用）。 
+版本信息：1.0 2020年9月最新版
+Link: https://www.zcool.com.cn/special/zcoolyytfonts/
+*/
+@font-face {
+    font-family: 'ZCOOL Cang Er Yu Yang';
+    font-style: normal;
+    font-display: block;
+    font-weight: 100;
+    src: url(https://cdn.jsdelivr.net/gh/langyamu/_font-source/ZCOOL-Cang-Er-Yu-Yang/font/站酷仓耳渔阳体-W01.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'ZCOOL Cang Er Yu Yang';
+    font-style: normal;
+    font-display: block;
+    font-weight: 400;
+    src: url(https://cdn.jsdelivr.net/gh/langyamu/_font-source/ZCOOL-Cang-Er-Yu-Yang/font/站酷仓耳渔阳体-W02.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'ZCOOL Cang Er Yu Yang';
+    font-style: normal;
+    font-display: block;
+    font-weight: 500;
+    src: url(https://cdn.jsdelivr.net/gh/langyamu/_font-source/ZCOOL-Cang-Er-Yu-Yang/font/站酷仓耳渔阳体-W03.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'ZCOOL Cang Er Yu Yang';
+    font-style: normal;
+    font-display: block;
+    font-weight: 700;
+    src: url(https://cdn.jsdelivr.net/gh/langyamu/_font-source/ZCOOL-Cang-Er-Yu-Yang/font/站酷仓耳渔阳体-W04.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'ZCOOL Cang Er Yu Yang';
+    font-style: normal;
+    font-display: block;
+    font-weight: 900;
+    src: url(https://cdn.jsdelivr.net/gh/langyamu/_font-source/ZCOOL-Cang-Er-Yu-Yang/font/站酷仓耳渔阳体-W05.ttf) format('truetype');
+}
