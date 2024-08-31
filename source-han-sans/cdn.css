@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'SourceHanSansCN';
+    src: url('https://cdn.jsdelivr.net/gh/langyamu/_font-source/source-han-sans/font/SourceHanSansCN-ExtraLight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN';
+    src: url('https://cdn.jsdelivr.net/gh/langyamu/_font-source/source-han-sans/font/SourceHanSansCN-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN';
+    src: url('https://cdn.jsdelivr.net/gh/langyamu/_font-source/source-han-sans/font/SourceHanSansCN-Normal.otf') format('opentype');
+    font-weight: 300;
+    /* 如果 Normal 比 Regular 更细 */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN';
+    src: url('https://cdn.jsdelivr.net/gh/langyamu/_font-source/source-han-sans/font/SourceHanSansCN-Regular.otf') format('opentype');
+    font-weight: 400;
+    /* Regular 通常是 400 */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN';
+    src: url('https://cdn.jsdelivr.net/gh/langyamu/_font-source/source-han-sans/font/SourceHanSansCN-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN';
+    src: url('https://cdn.jsdelivr.net/gh/langyamu/_font-source/source-han-sans/font/SourceHanSansCN-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN';
+    src: url('https://cdn.jsdelivr.net/gh/langyamu/_font-source/source-han-sans/font/SourceHanSansCN-Heavy.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+}
